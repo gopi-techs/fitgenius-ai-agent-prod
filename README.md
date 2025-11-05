@@ -314,9 +314,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - Gopinatha R (gopiroux@gmail.com)
 
-Project Link: [https://github.com/yourusername/fitgenius-ai-agent](https://github.com/yourusername/fitgenius-ai-agent)
+Project Link: https://github.com/gopi-techs/fitgenius-ai-agent-prod/
 
 ---
 
