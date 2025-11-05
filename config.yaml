@@ -1,0 +1,23 @@
+aws:
+  region: us-east-1
+  bedrock:
+    model_id: anthropic.claude-3-sonnet-20240229-v1:0
+    max_tokens: 4096
+    temperature: 0.7
+  
+database:
+  progress_table: FitGeniusProgress
+  users_table: FitGeniusUsers
+  
+storage:
+  bucket_name: fitgenius-images-YOUR_UNIQUE_ID
+  image_prefix: progress/
+  max_image_size_mb: 5
+  
+agent:
+  name: FitGenius
+  version: 1.0.0
+  features:
+    vision_analysis: true
+    progress_tracking: true
+    web_search: true

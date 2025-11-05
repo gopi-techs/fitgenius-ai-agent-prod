@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Environment
+.env
+.env.local
+
+# AWS
+.aws/
+*.pem
+
+# Logs
+*.log
+logs/
+
+# Data
+data/
+*.csv
+progress_photos/
